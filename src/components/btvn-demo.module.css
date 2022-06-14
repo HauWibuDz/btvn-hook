@@ -1,0 +1,18 @@
+button{
+    margin: 10px;
+    padding: 10px;
+    background-color: darkkhaki;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+}
+h3{
+    margin: auto;
+    width: 50%;
+    height: 40px;
+    background-color: blue;
+}
+td{
+    width: 50%;     
+}
